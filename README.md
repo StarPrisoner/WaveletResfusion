@@ -10,9 +10,9 @@ To facilitate a quick and efficient review process, we provide the implementatio
 
 | Module                          | Key Implementation | Corresponding Manuscript Section |
 |:--------------------------------| :--- | :--- |
-| **`model/waveletresfusion.py`** | Heteroscedastic Forward Diffusion & Multi-domain Loss | **Section 3.2 & 3.4** |
-| **`model/UNet_wave.py`**        | Hierarchical Wavelet Block (HWB) & Cross-Scale Fusion (CSF) | **Section 3.3** |
-| **`utils/dwt.py`**              | Differentiable DWT/IWT Subband Factorization | **Section 3.1** |
+| **`model/waveletresfusion.py`** | Heteroscedastic Forward Diffusion & Multi-domain Loss | **Section 3.3 & 3.5** |
+| **`model/UNet_wave.py`**        | Hierarchical Wavelet Block (HWB) & Cross-Scale Fusion (CSF) | **Section 3.4** |
+| **`utils/dwt.py`**              | Differentiable DWT/IWT Subband Factorization | **Section 3.2** |
 
 ---
 
